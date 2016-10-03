@@ -1,6 +1,8 @@
 Change log
 -----------
 
+* Exit tests on first failed robot test [Praneeth]
+
 # v1.16.0 - 2016-09-27
 
 * Update meta-resin to v1.16 [Florin]
